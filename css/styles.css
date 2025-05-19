@@ -154,7 +154,7 @@ main {
   padding-left: 5%;
 }
 .contact  >* {
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 .contact .item {
   transition: transform 0.3s ease;
